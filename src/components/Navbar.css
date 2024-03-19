@@ -1,0 +1,40 @@
+.divider-horizontal-icon {
+    position: absolute;
+    width: calc(100% - 1px);
+    right: 0.72px;
+    bottom: 0;
+    left: 0.28px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 0;
+    object-fit: cover;
+  }
+  .hamburger-icon-css-effect {
+    position: absolute;
+    
+    left: 1092px;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .inventory {
+    position: absolute;
+  
+    left: 35px;
+    line-height: 136.02%;
+    font-weight: 600;
+    display: inline-block;
+    width: 464.29px;
+    height: 36px;
+  }
+  .heading-pagebuttons {
+    position: relative;
+    background-color: var(--theme-white-default);
+    width: 100%;
+    height: 99px;
+    text-align: left;
+    font-size: 28px;
+    color: var(--text-heading-dark);
+    font-family: var(--font-manrope);
+  }
+  
